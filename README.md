@@ -6,9 +6,11 @@ I'm a fronend developer with a strong passion for JavaScript.
 I truly enjoy working with modern technologies like React and Next.js. 
 Building fast and beautiful user experiences is something i truly care about.
 </p>
-<br>
-[![Skills](https://skillicons.dev/icons?i=js,react,redux,nextjs,html,css,tailwind,figma,git,webstorm&theme=dark)](https://skillicons.dev)
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,html,css,tailwind,figma,git,webstorm" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammadFartoot&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
