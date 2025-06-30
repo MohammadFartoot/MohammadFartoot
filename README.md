@@ -1,4 +1,4 @@
-### Hi, I'm Mohammad 👋🏻 <br>
+### Hi, I'm Mohammad 👋🏻🧑🏻‍💻 <br>
 ![](assets/github-header-image-2.png)<br>
 
 <p>
