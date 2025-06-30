@@ -6,6 +6,7 @@ I'm a fronend developer with a strong passion for JavaScript.
 I truly enjoy working with modern technologies like React and Next.js. 
 Building fast and beautiful user experiences is something i truly care about.
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,html,css,tailwind,figma,git,webstorm" />
